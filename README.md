@@ -3,6 +3,7 @@
 
 ### Hello World, I'm Thiago Corrêa <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="30px"> 
 --- 
+- ♟️ Junior Web Developer
 - 📚 Graduated in Technology in Systems Analysis and Development
 - ⚙️ Self-taught
 - 💻 Node, ReactJS, React Native, Typescript
