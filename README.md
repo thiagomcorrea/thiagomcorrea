@@ -10,8 +10,8 @@
 ---
 ## 🔗Links
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-02B700?style=for-the-badge&labelColor=02B700&logo=whatsapp&logoColor=white&link=https://wa.me/926154616)](https://wa.me/926154616)
-[![Portfolio Badge](https://img.shields.io/badge/-website-000000?style=for-the-badge&labelColor=000000&logo=About.me&logoColor=white&link=https://symphonious-piroshki-b2a6b2.netlify.app/)](https://symphonious-piroshki-b2a6b2.netlify.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://symphonious-piroshki-b2a6b2.netlify.app/)](https://symphonious-piroshki-b2a6b2.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-website-000000?style=for-the-badge&labelColor=000000&logo=About.me&logoColor=white&link=https://thiago-correa-dev.netlify.app/)](https://thiago-correa-dev.netlify.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-mendonca-corr%C3%AAa-1837929a/)](https://www.linkedin.com/in/thiago-mendonca-corr%C3%AAa-1837929a/)
  
  ## ⚙️&nbsp;GitHub Analytics
  
