@@ -65,6 +65,6 @@ I enjoy solving logical problems and building real-world systems.
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/thiago-mendonca-corrêa
+- LinkedIn: https://www.linkedin.com/in/thiago-mendonca-corr%C3%AAa-1837929a
 
 - Email: thiagomcorreaaa@gmail.com
