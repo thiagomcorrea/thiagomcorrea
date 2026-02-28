@@ -1,32 +1,69 @@
+# 👋 Hello, I'm Thiago Corrêa
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+🚀 Backend Developer in transition to Full Stack  
+🌍 Based in Portugal | Open to international opportunities  
+💻 Former PHP Developer (2010–2015) – Restarting my Tech Career  
 
-### Hello World, I'm Thiago Corrêa <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="30px"> 
---- 
-- ♟️ Junior Web Developer
-- 👨‍🎓 Graduated in Technology in Systems Analysis and Development
-- 📚 Self-taught
-- 💻 Node, ReactJS, React Native, Typescript
 ---
-## 🔗Links
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-02B700?style=for-the-badge&labelColor=02B700&logo=whatsapp&logoColor=white&link=https://wa.me/926154616)](https://wa.me/926154616)
-[![Portfolio Badge](https://img.shields.io/badge/-website-000000?style=for-the-badge&labelColor=000000&logo=About.me&logoColor=white&link=https://thiago-correa-dev.netlify.app/)](https://thiago-correa-dev.netlify.app/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-mendonca-corr%C3%AAa-1837929a/)](https://www.linkedin.com/in/thiago-mendonca-corr%C3%AAa-1837929a/)
- 
- ## ⚙️&nbsp;GitHub Analytics
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomcorrea&langs_count=8&theme=dark)](https://github.com/thiagomcorrea/github-readme-stats)
-<!--
-**thiagox1/thiagox1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Technology in Systems Analysis graduate with professional experience in PHP and MySQL development.  
+After a few years away from tech, I'm fully focused on rebuilding my career — stronger, modern, and market-aligned.
+
+Currently studying and building projects with:
+
+- Node.js
+- React.js
+- React Native
+- TypeScript
+- REST APIs
+- SQL & NoSQL Databases
+
+I enjoy solving logical problems and building real-world systems.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Node.js
+- Express
+- PHP (legacy experience)
+- MySQL
+- MongoDB
+
+### Frontend
+- React.js
+- TypeScript
+- HTML5
+- CSS3
+
+### Mobile
+- React Native
+
+---
+
+## 📚 Currently Learning
+
+- Clean Architecture
+- API Security
+- Authentication & Authorization (JWT)
+- Design Patterns
+- Testing (Jest)
+
+---
+
+## 🎯 2026 Goals
+
+- Land a Junior Backend Developer role
+- Contribute to Open Source
+- Build production-ready full-stack applications
+- Relocate for better tech opportunities if needed
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (coloque aqui)
+- Email: (coloque aqui)
